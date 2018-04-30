@@ -62,6 +62,7 @@
     <color name="un605f5e" value="#00605f5e" />
     <color name="un666666" value="#00666666" />
     <color name="un697178" value="#00697178" />
+    <color name="un7f000000" value="#7f000000" />
     <color name="un800000" value="#00800000" />
     <color name="un808888" value="#00808888" />
     <color name="un858a95" value="#00858a95" />
@@ -1011,7 +1012,7 @@
     <applet type="onLayoutFinish">
         self["list"].instance.setItemHeight(40)	
     </applet>
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MessageBoxSimple" position="center,center" size="1920,1080" title="Message" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1042,7 +1043,7 @@
     <applet type="onLayoutFinish">
         self["list"].instance.setItemHeight(40)	
     </applet>
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="JobView" position="center,center" size="1920,1080" title="Job View" zPosition="1" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1094,7 +1095,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ExtraMessageBox" flags="wfNoBorder" position="center,center" size="1920,1080" title="ExtraMessageBox">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1127,7 +1128,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ExtraActionBox" flags="wfNoBorder" position="center,center" size="1920,1080" title="ExtraActionBox">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1151,7 +1152,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ChoiceBox" position="center,center" size="1920,1080" title="Input" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1178,7 +1179,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="Console" position="center,center" size="1920,1080" title="Command execution..." flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1201,7 +1202,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="LocationBox" position="center,center" size="1920,1080" title="Location Box" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1237,7 +1238,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="CronTimers" flags="wfNoBorder" position="center,center" size="1920,1080" title="CronTimers">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1282,7 +1283,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="CronTimersConfig" position="center,center" size="1920,1080" title="CronTimersConfig" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1306,7 +1307,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="SwapOverviewScreen" position="center,center" size="1920,1080" title="Swap Manager" zPosition="1" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1339,7 +1340,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="Menu" position="center,center" size="1920,1080" title="Main menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1358,18 +1359,17 @@
       <convert type="ClockToText">Format:%A, %d.%m.%Y</convert>
     </widget>
     <widget source="title" render="Label" position="74,50" size="720,45" font="LCD; 42" foregroundColor="grey" backgroundColor="grey" transparent="1" halign="center" />
-    <widget source="menu" render="Listbox" position="55,220" size="920,700" scrollbarMode="showOnDemand" enableWrapAround="1" transparent="1" backgroundPixmap="skin_default/menu/sel-red.png" selectionPixmap="skin_default/menu/sel-green.png">>
+    <widget source="menu" render="Listbox" position="55,220" size="920,700" scrollbarMode="showOnDemand" enableWrapAround="1" transparent="1" backgroundPixmap="skin_default/menu/sel-red.png" selectionPixmap="skin_default/menu/sel-green.png">&gt;
       <convert type="TemplatedMultiContent">
 				{"template": [ MultiContentEntryText(pos = (200, 3), size = (780, 40), flags = RT_HALIGN_CENTER|RT_VALIGN_CENTER, text = 0) ],
 				"fonts": [gFont("LCD", 36)],
 				"itemHeight": 50
 				}
-			</convert>
-    </widget>
+			</convert></widget>
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" zPosition="0" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="menu_mainmenu" position="center,center" size="1920,1080" title="Main menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1399,7 +1399,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" zPosition="0" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />	
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="menu_information" position="center,center" size="1920,1080" title="Main menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1429,7 +1429,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" zPosition="0" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="menu_setup" position="center,center" size="1920,1080" title="Main menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1459,7 +1459,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" zPosition="0" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="menu_scan" position="center,center" size="1920,1080" title="Main menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1489,7 +1489,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" zPosition="0" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="menu_system" position="center,center" size="1920,1080" title="Main menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1519,7 +1519,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" zPosition="0" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="menu_harddisk" position="center,center" size="1920,1080" title="Main menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1560,7 +1560,7 @@
     <widget source="menu" render="Pixmap" pixmap="skin_default/menu/hdd.png" position="950,430" size="150,150" alphatest="blend" zPosition="1">
       <convert type="MenuEntryCompare">harddisk_setup</convert>
       <convert type="ConditionalShowHide" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		  
+      <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
     </widget>
   </screen>
   <screen name="menu_shutdown" position="center,center" size="1920,1080" title="Main menu" flags="wfNoBorder">
@@ -1614,7 +1614,7 @@
     <widget source="menu" render="Pixmap" pixmap="skin_default/menu/timer.png" position="950,430" size="150,150" alphatest="on" zPosition="1">
       <convert type="MenuEntryCompare">sleep</convert>
       <convert type="ConditionalShowHide" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		  
+      <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
     </widget>
   </screen>
   <screen name="LanguageSelection" position="center,center" size="1920,1080" title="Language selection" flags="wfNoBorder">
@@ -1649,7 +1649,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="About" position="center,center" size="1920,1080" title="About" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1672,7 +1672,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="PluginBrowser" position="center,center" size="1920,1080" title="Plugin browser" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1703,7 +1703,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="PluginDownloadBrowser" position="center,center" size="1920,1080" title="Downloadable plugins" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1731,7 +1731,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="PluginInstall" position="center,center" size="1920,1080" title="Installiere Plugins" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1768,7 +1768,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" zPosition="-1" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="PluginDeinstall" position="center,center" size="1920,1080" title="Deinstalliere Plugins" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1803,7 +1803,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" zPosition="-1" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="Setup" position="center,center" size="1920,1080" title="Setup" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1842,7 +1842,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ServiceScan" position="center,center" size="1920,1080" title="Service Scan" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1878,7 +1878,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ScanSimple" position="center,center" size="1920,1080" title="Service scan" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1906,7 +1906,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ScanSetup" position="center,center" size="1920,1080" title="Service scan" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1933,7 +1933,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="Satfinder" position="center,center" size="1920,1080" title="Satfinder" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -1986,7 +1986,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="NimSelection" position="center,center" size="1920,1080" title="Choose Tuner" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2019,7 +2019,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="NimSetup" position="center,center" size="1920,1080" title="Reception Settings" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2045,7 +2045,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="RecordPathsSettings" position="center,center" size="1920,1080" title="Recording paths..." flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2076,7 +2076,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ServiceInfoSimple" position="center,center" size="1920,1080" title="Serviceinfo" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2111,7 +2111,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ServiceInfo" position="center,center" size="1920,1080" title="Serviceinfo" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2146,7 +2146,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="SlimChannelSelection" position="center,center" size="1920,1080" title="Channel Selection" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2247,8 +2247,8 @@
     <widget source="Title" render="Label" position="74,50" size="720,45" font="LCD; 42" backgroundColor="white" transparent="1" halign="right" />
     <eLabel text="Channel Selection" halign="left" position="74,50" size="350,45" font="LCD; 42" backgroundColor="grey" transparent="1" foregroundColor="grey" />
     <widget name="list" position="55,220" zPosition="2" size="920,700" scrollbarMode="showOnDemand" serviceItemHeight="30" serviceNumberFont="Regular;28" serviceNameFont="Regular;28" serviceInfoFont="Regular;25" colorServiceDescription="myblue" transparent="1" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />	
-	</screen>
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
+  </screen>
   <screen name="ChannelContextMenu" position="center,center" size="1920,1080" title="Channellist menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
     <eLabel position="1056,210" zPosition="1" size="805,500" backgroundColor="unff000000" />
@@ -2271,7 +2271,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ChannelSelection" position="center,center" size="1920,1080" title="Channel Selection" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2440,7 +2440,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="EventViewContextMenu" position="center,center" size="1920,1080" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2463,7 +2463,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="TimerEditList" position="center,center" size="1920,1080" title="Timer Editor" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2494,7 +2494,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="TimerEntry" position="center,center" size="1920,1080" title="Timer entry" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2530,7 +2530,7 @@
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
     <ePixmap name="new ePixmap" position="900,942" size="80,31" pixmap="skin_default/buttons/key_text.png" alphatest="blend" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="TimerLog" position="center,center" size="1920,1080" title="Timer log" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2562,7 +2562,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="TimerSanityConflict" position="center,center" size="1920,1080" title="Timer sanity error" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2597,7 +2597,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="TimerSelection" position="center,center" size="1920,1080" title="Timer selection" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -2628,7 +2628,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="TimeshiftState" position="center,36" size="1800,120" backgroundColor="transpBlack" flags="wfNoBorder">
     <eLabel text="Timeshift State" position="center,17" size="250,34" zPosition="10" font="Regular; 28" halign="center" backgroundColor="transpBlack" />
@@ -3249,7 +3249,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="EPGImportSources" position="center,center" size="1920,1080" title="EPG Import Sources" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3280,7 +3280,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="EPGImportProfile" position="center,center" size="1920,1080" title="EPGImportProfile" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3311,7 +3311,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="EPGImportLog" position="center,center" size="1920,1080" title="EPG Import Log" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3342,7 +3342,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="filtersServicesSetup" position="center,center" size="1920,1080" title="Ignore services list" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3384,7 +3384,7 @@
 				}
 			</convert>
     </widget>
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="filtersServicesSelection" position="center,center" size="1920,1080" title="Channel Selection">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3415,7 +3415,7 @@
     <widget name="key_blue" render="Label" position="1479,1017" size="373,34" zPosition="1" font="LCD; 29" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <eLabel text="Channel Selection" render="Label" position="74,50" size="720,43" font="LCD; 40" backgroundColor="grey" transparent="1" halign="center" foregroundColor="grey" />
     <widget name="list" position="55,220" size="920,700" scrollbarMode="showOnDemand" zPosition="3" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="EPGRefreshServiceEditor" position="center,center" size="1920,1080" title="Edit Services to refresh" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3449,8 +3449,8 @@
     <widget source="key_green" render="Label" position="590,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <widget source="key_yellow" render="Label" position="1088,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <widget source="key_blue" render="Label" position="1587,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />	
-	</screen>
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
+  </screen>
   <screen name="EPGRefreshConfiguration" position="center,center" size="1920,1080" title="Configure EPGRefresh" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
     <eLabel position="1056,210" zPosition="1" size="805,500" backgroundColor="unff000000" />
@@ -3485,8 +3485,8 @@
     <widget source="key_green" render="Label" position="590,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <widget source="key_yellow" render="Label" position="1088,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <widget source="key_blue" render="Label" position="1587,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />	
-	</screen>
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
+  </screen>
   <screen name="MovieSelection" position="center,center" size="1920,1080" title="Select a movie" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
     <eLabel position="1063,213" zPosition="1" size="611,295" backgroundColor="unff000000" />
@@ -3604,7 +3604,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HarddiskSetup" position="center,center" size="1920,1080" title="Harddisk" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3631,7 +3631,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HarddiskDriveSelection" position="center,center" size="1920,1080" title="Select HDD" zPosition="1" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3677,7 +3677,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HarddiskDriveSetup" position="center,center" size="1920,1080" title="Harddisk Drive Setup" zPosition="1" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3713,7 +3713,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HarddiskMountpointBrowser" position="center,center" size="1920,1080" title="Harddisk Mountpoint Browser" zPosition="1" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3744,7 +3744,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HarddiskWait" position="center,center" size="1920,1080" title="Harddisk Wait" zPosition="1" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3771,7 +3771,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HddInfo" flags="wfNoBorder" position="center,center" size="1920,1080" title="Hard Drive Info">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3811,7 +3811,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HddMount" flags="wfNoBorder" position="center,center" size="1920,1080" title="Hard Drive Mount">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3845,7 +3845,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HddPartitions" flags="wfNoBorder" position="center,center" size="1920,1080" title="Hard Drive Partitions">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3887,7 +3887,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HddSetup" flags="wfNoBorder" position="center,center" size="1920,1080" title="Hard Drive Setup">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3929,7 +3929,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HddFastRemove" position="center,center" size="1920,1080" title="HddFastRemove" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -3971,7 +3971,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="SkinSelector" position="center,center" size="1920,1080" title="Skin Selector" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4005,7 +4005,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="LCDSkinSelector" position="center,center" size="1920,1080" title="LCD SkinSelector" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4039,7 +4039,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="LCDClockSelector" position="center,center" size="1920,1080" title="LCD ClockSelector" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4073,7 +4073,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="QuickMenu" position="center,center" size="1920,1080" backgroundColor="black" title="Quick Launch Menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4106,7 +4106,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="FlashOnline" position="center,center" size="1920,1080" title="Flash On the fly" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4138,7 +4138,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="NFRCamManager" position="center,center" size="1920,1080" title="NFR SoftCam Manager" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4187,7 +4187,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ConfigEdit" position="center,center" size="1920,1080" title="SoftCam path configuration" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4218,7 +4218,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="doFlashImage" position="center,center" size="1920,1080" title="Flash On the fly (select a image)" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4249,7 +4249,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HelpMenu" position="center,center" size="1920,1080" title="Menu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4279,7 +4279,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="BackupSelection" position="center,center" size="1920,1080" title="Select files/folders to backup..." flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4310,7 +4310,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="Infopanel" position="center,center" size="1920,1080" title="INFO Panel" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4337,7 +4337,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="SoftwarePanel" position="center,center" size="1920,1080" title="Software Panel" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4390,7 +4390,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ImageBackup" position="center,center" size="1920,1080" title="Image Backup" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4422,7 +4422,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HotkeySetup" position="center,center" size="1920,1080" title="Multi-Key-Panel" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4454,7 +4454,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="HotkeySetupSelect" position="center,center" size="1920,1080" title="Multi-Key-Panel" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4486,7 +4486,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="RestorePlugins" position="center,center" size="1920,1080" title="RestorePlugins" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4528,7 +4528,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MovePlugins_int" position="center,center" size="1920,1080" title="Move Plugins back to Flash" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4565,7 +4565,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MovePlugins_ext" position="center,center" size="1920,1080" title="Move Plugins to HDD/USB" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4602,7 +4602,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="NfrHD_Config" position="center,center" size="1920,1080" title="NfrHD_Config" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4633,7 +4633,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="NfrHDScreens" position="center,center" size="1920,1080" title="NfrHDScreens" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4675,7 +4675,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="NfrHD_About" position="center,center" size="1920,1080" title="NfrHD_About" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4699,7 +4699,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="SpinnerSelectionBox" position="center,center" size="1920,1080" title="SpinnerSelection" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4733,7 +4733,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="BootvideoSetupScreen" position="center,center" size="1920,1080" title="INFO Panel" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4768,7 +4768,7 @@
     <ePixmap position="774,942" size="80,31" zPosition="10" pixmap="skin_default/buttons/key_info.png" transparent="1" alphatest="blend" />
     <widget source="key_info" render="Label" position="851,940" size="126,30" zPosition="2" font="Regular; 28" halign="right" backgroundColor="goldenrod" transparent="1" foregroundColor="goldenrod" />
     <eLabel name="new eLabel" position="852,943" size="10,30" font="Regular; 28" text="=" zPosition="3" halign="center" transparent="1" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="BootlogoSetupScreen" position="center,center" size="1920,1080" title="INFO Panel" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4800,8 +4800,8 @@
     <widget source="key_green" render="Label" position="590,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <widget source="key_yellow" render="Label" position="1088,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <widget source="key_blue" render="Label" position="1587,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />	
-	</screen>
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
+  </screen>
   <screen name="RadiologoSetupScreen" position="center,center" size="1920,1080" title="INFO Panel" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
     <eLabel position="1056,210" zPosition="1" size="805,500" backgroundColor="unff000000" />
@@ -4832,8 +4832,8 @@
     <widget source="key_green" render="Label" position="590,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <widget source="key_yellow" render="Label" position="1088,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <widget source="key_blue" render="Label" position="1587,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />	
-	</screen>
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
+  </screen>
   <screen name="MoveVideos_ext" position="center,center" size="1920,1080" title="Move Bootvideos to HDD/USB" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
     <eLabel position="1056,210" zPosition="1" size="805,500" backgroundColor="unff000000" />
@@ -4868,7 +4868,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MoveVideos_int" position="center,center" size="1920,1080" title="Move Bootvideos back to Flash" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4904,7 +4904,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MoveBootlogos_ext" position="center,center" size="1920,1080" title="Move Bootlogos to HDD/USB" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4940,7 +4940,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MoveBootlogos_int" position="center,center" size="1920,1080" title="Move Bootlogos back to Flash" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -4976,7 +4976,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MoveRadiologos_ext" position="center,center" size="1920,1080" title="Move Radiologos to HDD/USB" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -5012,7 +5012,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MoveRadiologos_int" position="center,center" size="1920,1080" title="Move Radiologos back to Flash" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -5048,7 +5048,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MoveSpinner_ext" position="center,center" size="1920,1080" title="Move Spinner to HDD/USB" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -5084,7 +5084,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="MoveSpinner_int" position="center,center" size="1920,1080" title="Move Spinner back to Flash" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -5120,7 +5120,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="NFRPasswdScreen" position="center,center" size="1920,1080" title="Change root password" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -5151,7 +5151,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="UserMainMenuConfig" position="center,center" size="1920,1080" title="openNFR UserMainMenu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -5192,7 +5192,7 @@
     <ePixmap name="tvback" position="1039,193" size="835,535" pixmap="skin_default/menu/tvbackmenu.png" />
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="ScriptRunner" position="center,center" size="1920,1080" title="Job Manager" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -5223,8 +5223,8 @@
 			self["list"].instance.setItemHeight(40)
 		</applet>
     <widget name="lab1" position="55,141" size="790,43" font="LCD; 35" zPosition="2" transparent="1" halign="center" foregroundColor="goldenrod" backgroundColor="goldenrod" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />	
-	</screen>
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
+  </screen>
   <screen name="LogManager" position="center,center" size="1920,1080" title="LogManager" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
     <eLabel position="1056,210" zPosition="1" size="805,500" backgroundColor="unff000000" />
@@ -5258,8 +5258,8 @@
     <applet type="onLayoutFinish">
                          self["list"].instance.setItemHeight(40)
                       </applet>
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />	
-</screen>
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
+  </screen>
   <screen name="LogManagerViewLog" position="center,center" size="1920,1080" title="LogManagerViewLog" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/edit.png" />
     <widget source="global.CurrentTime" render="Label" position="1690,42" size="150,60" font="LCD; 55" halign="right" foregroundColor="white" backgroundColor="white" transparent="1">
@@ -5303,7 +5303,7 @@
     <widget name="key_blue" render="Label" position="1587,1017" size="255,34" zPosition="1" font="LCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <eLabel text="LogManagerFb" position="74,50" size="720,45" font="LCD; 42" backgroundColor="grey" transparent="1" foregroundColor="grey" halign="center" />
     <widget name="list" position="55,220" size="920,680" scrollbarMode="showOnDemand" transparent="1" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="LogManagerMenu" position="center,center" size="1920,1080" title="LogManagerMenu" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
@@ -5335,7 +5335,7 @@
     <eLabel text="LogManagerMenu" position="74,50" size="720,45" font="LCD; 42" backgroundColor="grey" transparent="1" foregroundColor="grey" halign="center" />
     <widget name="list" position="55,220" size="920,700" scrollbarMode="showOnDemand" transparent="1" />
     <widget name="HelpWindow" pixmap="vkey_icon.png" position="225,598" zPosition="3" size="520,200" transparent="1" alphatest="blend" />
-    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />		
+    <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
   </screen>
   <screen name="VirtualKeyBoard" position="center,center" size="1920,1080" zPosition="99" title="Virtual KeyBoard" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/edit.png" />
@@ -11757,7 +11757,7 @@
         self["config"].instance.setItemHeight(40)
     </applet>
     <ePixmap name="selector" position="55,690" size="930,10" pixmap="skin_default/menu/selector.png" zPosition="1" />
-    <widget source="streams" render="Listbox" scrollbarMode="showOnDemand" position="55,703" size="920,220" zPosition="3" enableWrapAround="1" backgroundColor="background" transparent="1" itemHeight="28">
+    <widget source="streams" render="Listbox" scrollbarMode="showOnDemand" position="55,710" size="920,200" zPosition="3" enableWrapAround="1" backgroundColor="background" transparent="1" itemHeight="28">
       <convert type="TemplatedMultiContent">
 			{"templates":
 			    {"default": (40, [ 
@@ -11911,4 +11911,8 @@
   <screen name="DeviceManager2Summary" position="center,center" size="250,20">
     <widget source="entry" render="RollerCharLCD" size="250,20" position="center,center" font="Regular;20" noWrap="1" />
   </screen>
+<screen name="QuickSubtitlesConfigMenu" position="center,center" size="850,400" title="Subtitle settings" backgroundColor="black" flags="wfNoBorder">
+  <widget name="config" position="15,5" size="820,400" font="Regular;28" itemHeight="40" zPosition="1" transparent="1" valign="center" />
+  <widget name="videofps" position="15,360" size="820,40" backgroundColor="transpBlack" transparent="1" zPosition="1" font="Regular;28" valign="center" halign="left" foregroundColor="blue" />
+</screen>
 </skin>
