@@ -414,10 +414,10 @@
       <convert type="ConditionalShowHide" />
     </widget>
     <!-- TunerInfo end -->
-    <widget source="session.CurrentService" render="Picon" position="158,822" zPosition="4" size="211,140" transparent="1" alphatest="blend">
+    <widget source="session.CurrentService" render="Picon" position="161,825" zPosition="4" size="209,134" transparent="1" alphatest="blend">
       <convert type="ServiceName">Reference</convert>
     </widget>
-    <widget source="session.CurrentService" render="PiconProv" position="1547,824" size="211,140" zPosition="2" transparent="1" alphatest="blend">
+    <widget source="session.CurrentService" render="PiconProv" position="1550,825" size="209,134" zPosition="2" transparent="1" alphatest="blend">
       <convert type="ServiceName2">Provider</convert>
     </widget>
     <widget source="session.Event_Now" render="Label" position="400,833" size="100,44" font="Regular; 34" halign="center" backgroundColor="blue" transparent="1" foregroundColor="blue" zPosition="1">
@@ -700,10 +700,10 @@
       <convert type="ConditionalShowHide" />
     </widget>
     <!-- TunerInfo end -->
-    <widget source="session.CurrentService" render="Picon" position="158,822" zPosition="4" size="211,140" transparent="1" alphatest="blend">
+    <widget source="session.CurrentService" render="Picon" position="161,825" zPosition="4" size="209,134" transparent="1" alphatest="blend">
       <convert type="ServiceName">Reference</convert>
     </widget>
-    <widget source="session.CurrentService" render="PiconProv" position="1547,824" size="211,140" zPosition="2" transparent="1" alphatest="blend">
+    <widget source="session.CurrentService" render="PiconProv" position="1550,825" size="209,134" zPosition="2" transparent="1" alphatest="blend">
       <convert type="ServiceName2">Provider</convert>
     </widget>
     <widget source="session.Event_Now" render="Label" position="400,833" size="100,44" font="Regular; 34" halign="center" backgroundColor="blue" transparent="1" foregroundColor="blue" zPosition="1">
@@ -931,7 +931,7 @@
       <convert type="ConditionalShowHide" />
     </widget>
     <!-- TunerInfo end -->
-    <widget source="session.CurrentService" render="Picon" position="158,822" zPosition="2" size="211,140" transparent="1" alphatest="blend">
+    <widget source="session.CurrentService" render="Picon" position="161,825" zPosition="2" size="209,134" transparent="1" alphatest="blend">
       <convert type="ServiceName">Reference</convert>
     </widget>
     <widget source="session.Event_Now" render="Label" position="400,833" size="100,44" font="Regular; 34" halign="center" backgroundColor="blue" transparent="1" foregroundColor="blue" zPosition="1">
@@ -2193,7 +2193,7 @@
     <widget source="ServiceEvent" render="PiconProv" position="1699,411" size="158,97" zPosition="5" transparent="1" alphatest="blend">
       <convert type="ServiceName2">Provider</convert>
     </widget>
-    <widget source="ServiceEvent" render="PiconRes" position="1698,208" size="158,97" zPosition="5" transparent="1" alphatest="blend">
+    <widget source="ServiceEvent" render="PiconRes" position="1699,208" size="158,97" zPosition="5" transparent="1" alphatest="blend">
       <convert type="ServiceName">Reference</convert>
     </widget>
     <widget source="ServiceEvent" render="NextEvent2" position="55,805" size="920,115" font="Regular;24" foregroundColor="goldenrod" backgroundColor="goldenrod" noWrap="1" transparent="1" zPosition="3" halign="center" valign="center" />
@@ -2318,7 +2318,7 @@
     <widget source="ServiceEvent" render="PiconProv" position="1699,411" size="158,97" zPosition="5" transparent="1" alphatest="blend">
       <convert type="ServiceName2">Provider</convert>
     </widget>
-    <widget source="ServiceEvent" render="PiconRes" position="1698,208" size="158,97" zPosition="5" transparent="1" alphatest="blend">
+    <widget source="ServiceEvent" render="PiconRes" position="1699,208" size="158,97" zPosition="5" transparent="1" alphatest="blend">
       <convert type="ServiceName">Reference</convert>
     </widget>
     <widget source="ServiceEvent" render="NextEvent2" position="55,805" size="920,115" font="Regular;24" foregroundColor="goldenrod" backgroundColor="goldenrod" noWrap="1" transparent="1" zPosition="3" halign="center" valign="center" />
@@ -11911,8 +11911,8 @@
   <screen name="DeviceManager2Summary" position="center,center" size="250,20">
     <widget source="entry" render="RollerCharLCD" size="250,20" position="center,center" font="Regular;20" noWrap="1" />
   </screen>
-<screen name="QuickSubtitlesConfigMenu" position="center,center" size="850,400" title="Subtitle settings" backgroundColor="black" flags="wfNoBorder">
-  <widget name="config" position="15,5" size="820,400" font="Regular;28" itemHeight="40" zPosition="1" transparent="1" valign="center" />
-  <widget name="videofps" position="15,360" size="820,40" backgroundColor="transpBlack" transparent="1" zPosition="1" font="Regular;28" valign="center" halign="left" foregroundColor="blue" />
-</screen>
+  <screen name="QuickSubtitlesConfigMenu" position="center,center" size="850,400" title="Subtitle settings" backgroundColor="black" flags="wfNoBorder">
+    <widget name="config" position="15,5" size="820,400" font="Regular;28" itemHeight="40" zPosition="1" transparent="1" valign="center" />
+    <widget name="videofps" position="15,360" size="820,40" backgroundColor="transpBlack" transparent="1" zPosition="1" font="Regular;28" valign="center" halign="left" foregroundColor="blue" />
+  </screen>
 </skin>
