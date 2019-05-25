@@ -4419,10 +4419,10 @@
     <ePixmap pixmap="skin_default/buttons/green.png" position="568,1000" size="300,76" alphatest="blend" />
     <ePixmap pixmap="skin_default/buttons/yellow.png" position="1066,1000" size="300,76" alphatest="blend" />
     <ePixmap pixmap="skin_default/buttons/blue.png" position="1565,1000" size="300,76" alphatest="blend" />
-    <widget name="key_red" render="Label" position="77,1017" size="255,34" zPosition="1" font="NFRLCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
-    <widget name="key_green" render="Label" position="590,1017" size="255,34" zPosition="1" font="NFRLCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
-    <widget name="key_yellow" render="Label" position="1088,1017" size="255,34" zPosition="1" font="NFRLCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
-    <widget name="key_blue" render="Label" position="1587,1017" size="255,34" zPosition="1" font="NFRLCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
+    <widget source="key_red" render="Label" position="77,1017" size="255,34" zPosition="1" font="NFRLCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
+    <widget source="key_green" render="Label" position="590,1017" size="255,34" zPosition="1" font="NFRLCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
+    <widget source="key_yellow" render="Label" position="1088,1017" size="255,34" zPosition="1" font="NFRLCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
+    <widget source="key_blue" render="Label" position="1587,1017" size="255,34" zPosition="1" font="NFRLCD; 34" halign="center" valign="center" backgroundColor="white" transparent="1" />
     <eLabel text="Image Backup" position="74,50" size="720,45" font="NFRLCD; 42" foregroundColor="grey" backgroundColor="grey" transparent="1" halign="center" />
     <widget name="info-hdd" position="55,220" zPosition="1" size="920,200" font="Regular; 30" halign="center" valign="center" foregroundColor="goldenrod" transparent="1" backgroundColor="goldenrod" />
     <widget name="info-usb" position="55,525" zPosition="1" size="920,400" font="Regular; 30" halign="center" valign="center" transparent="1" backgroundColor="white" />
@@ -4430,6 +4430,11 @@
     <ePixmap name="senderback" position="1042,729" size="828,80" pixmap="skin_default/menu/sendernameback.png" />
     <ePixmap name="progressback" position="1046,813" size="821,55" pixmap="skin_default/menu/progressbackmenu.png" />
     <ePixmap name="nfrlogo" position="1020,900" size="870,37" pixmap="skin_default/menu/nfrlogo.png" />
+   <widget source="description" render="Label" position="55,220" size="920,90" halign="center" font="Regular; 30" backgroundColor="black" foregroundColor="white" transparent="1" />
+    <widget name="config" position="50,477" size="920,440" font="Regular;22" foregroundColor="cyan1" scrollbarMode="showOnDemand" transparent="1" />
+    <applet type="onLayoutFinish">
+        self["config"].instance.setItemHeight(50)
+    </applet>
   </screen>
   <screen name="HotkeySetup" position="center,center" size="1920,1080" title="Multi-Key-Panel" flags="wfNoBorder">
     <ePixmap position="center,center" zPosition="-10" size="1920,1080" pixmap="skin_default/menu/menu.png" />
